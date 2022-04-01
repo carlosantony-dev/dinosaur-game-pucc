@@ -17,13 +17,13 @@ var posB=-1854;
 var posC = 1950;
 var speedCac = 40;
 var spriteInicio = new Image();
-spriteInicio.src = "dino_stop.png";
+spriteInicio.src = "/assets/dino_stop.png";
 var background = new Image();
-background.src = "ground.png";
+background.src = "/assets/ground.png";
 var background2 = new Image();
-background2.src = "ground.png";
+background2.src = "/assets/ground.png";
 var cactos = new Image();
-cactos.src = "cactos.png";
+cactos.src = "/assets/cactos.png";
 
 //https://www.demo2s.com/javascript/javascript-canvas-character-jump.html
 
